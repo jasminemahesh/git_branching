@@ -11,7 +11,7 @@ import com.training.calculator.simplecalculator.exception.IllegalOperationExcept
 /**
  * SimpleCalculator.java :class which performs computation with operands.
  * 
- * @author Libu
+ * @author Jasmine
  * @version 1.0
  */
 public class SimpleCalculator {

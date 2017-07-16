@@ -1,4 +1,4 @@
-package com.aegon.calculator.simplecalulator;
+package com.training.calculator.simplecalculator;
 
 public class SimpleCalculatorInput {
 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.aegon.calculator.simplecalulator;
+package com.training.calculator.simplecalculator;
 
 import java.util.ArrayList;
 import java.util.List;

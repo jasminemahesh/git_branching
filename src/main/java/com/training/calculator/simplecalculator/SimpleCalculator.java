@@ -1,13 +1,12 @@
 /**
  * 
  */
-package com.aegon.calculator.simplecalulator;
+package com.training.calculator.simplecalculator;
 
 import java.util.*;
-import java.util.Optional;
 
-import com.aegon.calculator.simplecalulator.exception.DivideByZeroException;
-import com.aegon.calculator.simplecalulator.exception.IllegalOperationException;
+import com.training.calculator.simplecalculator.exception.DivideByZeroException;
+import com.training.calculator.simplecalculator.exception.IllegalOperationException;
 
 /**
  * SimpleCalculator.java :class which performs computation with operands.

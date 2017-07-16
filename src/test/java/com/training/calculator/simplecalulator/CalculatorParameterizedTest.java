@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.aegon.calculator.simplecalulator;
+package com.training.calculator.simplecalulator;
 
 import static org.junit.Assert.assertEquals;
 
@@ -16,8 +16,9 @@ import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameter;
 import org.junit.runners.Parameterized.Parameters;
 
-import com.aegon.calculator.simplecalulator.SimpleCalculatorInput;
-import com.aegon.calculator.simplecalulator.SimpleCalculatorInputProviderImpl;
+import com.training.calculator.simplecalculator.SimpleCalculator;
+import com.training.calculator.simplecalculator.SimpleCalculatorInput;
+import com.training.calculator.simplecalculator.SimpleCalculatorInputProviderImpl;
 
 /**
  * Unit test class for Calculator - calculate.

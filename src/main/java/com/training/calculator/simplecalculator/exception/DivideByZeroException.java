@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.aegon.calculator.simplecalulator.exception;
+package com.training.calculator.simplecalculator.exception;
 
 /**
  * DivideByZeroException.java :Runtime exception when divided by Zero .
